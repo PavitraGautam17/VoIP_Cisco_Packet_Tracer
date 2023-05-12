@@ -1,5 +1,5 @@
 # VoIP_Cisco_Packet_Tracer
-                                                              Telephony VoIP Network in Cisco Packet Tracer
+                             Telephony VoIP Network in Cisco Packet Tracer
 
 The Telephony VoIP project is designed to establish a robust and efficient communication network using Voice over Internet Protocol (VoIP) technology within a company. The network is implemented in Cisco Packet Tracer and consists of four departments: Sales, HR, Finance, and ICT, each equipped with 10 telephones, 10 PCs, and 1 printer. The departments are interconnected through routers, allowing seamless communication and data exchange.
 
