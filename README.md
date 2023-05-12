@@ -19,3 +19,4 @@ Interconnections:
 All four departments are connected to a switch within their respective areas. The switches manage the local network traffic and ensure seamless connectivity between telephones, PCs, and printers within each department. The departments are interconnected using routers, establishing a secure and efficient communication network. The routers enable data exchange and facilitate communication between different departments, allowing for collaboration and information sharing.
 
 Overall, this Telephony VoIP project in Cisco Packet Tracer creates a comprehensive network infrastructure that enhances communication and collaboration among the Sales, HR, Finance, and ICT departments. It optimizes the company's operations, improves productivity, and enables efficient management of resources.
+
